@@ -1,0 +1,12 @@
+.homeContainer {
+    padding: 5px; 
+  }
+  
+  .centeredText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh; 
+    text-align: center;
+    color: #00008B
+  }
